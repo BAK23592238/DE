@@ -1,41 +1,201 @@
 ,Listing ID,Title,Author,Year,Price,Currency,Seller Rating
-0,32227607059,An Engineering Data Book,-,2008,2.94,GBP,(5-star seller)
-1,32227605983,An Engineering Data Book,-,2008,2.95,GBP,(4-star seller)
-2,32222887439,An Engineering Data Book,"Calvert, J R",2008,0.91,GBP,(5-star seller)
-3,32222869340,An Engineering Data Book,"Calvert, J R",2008,0.91,GBP,(5-star seller)
-4,31281650159,"Data Communications, Computer Networks and Open Systems Interconnection (Electronic systems engineering series)",Fred Halsall,1988,3.36,GBP,(4-star seller)
-5,31281645127,"Data Communications, Computer Networks and Open Systems Interconnection (Electronic systems engineering series)",Fred Halsall,1988,3.36,GBP,(5-star seller)
-6,32221607963,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)",Fred Halsall,1992,3.59,GBP,(4-star seller)
-7,32284539102,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)","Halsall, Fred",1992,3.59,GBP,(4-star seller)
-8,32125461131,An Engineering Data Book,"Calvert, Dr J.R. and Farrar, Professor R.A.",2008,3.59,GBP,(4-star seller)
-9,31925140268,An Engineering Data Book,"Calvert, Dr J.R. and Farrar, Professor R.A.",2008,3.59,GBP,(4-star seller)
-10,32185728260,"Manufacturing Information and Data Systems: Analysis, Design and Practice (Manufacturing Engineering Series)","Cecelja, Franjo",2002,1.41,GBP,(5-star seller)
-11,32167276873,"Manufacturing Information and Data Systems: Analysis, Design and Practice (Manufacturing Engineering Series)","Cecelja, Franjo",2002,1.41,GBP,(5-star seller)
-12,30997001710,An Engineering Data Book,-,1999,3.94,GBP,(5-star seller)
-13,30997008181,An Engineering Data Book,-,1999,3.94,GBP,(5-star seller)
-14,22395139255,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)",Fred Halsall,1992,4.11,GBP,(4-star seller)
-15,18036891464,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)",Fred Halsall,1992,4.11,GBP,(5-star seller)
-16,31956113393,An Engineering Data Book,"Calvert, J.R.; Farrar, R.A.",1999,4.67,GBP,(5-star seller)
-17,31847461997,An Engineering Data Book,"Calvert, J.R, Farrar, Roy A.",2008,4.67,GBP,(5-star seller)
-18,31917667436,"Data Communications and Networking, Global Edition (Asia Higher Education Engineering/Computer Science Computer Science)",-,2012,5.45,GBP,(5-star seller)
-19,31646051683,Measurement and Data Analysis for Engineering and Science,"Dunn, Patrick F.",2010,5.66,GBP,(5-star seller)
-20,31960122548,Driving Eureka!: Problem-Solving with Data-Driven Methods & the Innovation Engineering System,"Hall, Doug",2018,2.8,GBP,(5-star seller)
-21,22853012128,An Engineering Data Book,"Calvert, J R",2008,3.16,GBP,(5-star seller)
-22,31262249518,"Statistical Procedures for Analysis of Environmental Monitoring Data and Risk Assessment (Ptr Environmental Management and Engineering Series , Vol 3)","McBean, Edward A.",1998,3.32,GBP,(5-star seller)
-23,32126022543,"Proceedings of International Conference on Wireless Communication: ICWiCom 2017 (Lecture Notes on Data Engineering and Communications Technologies, Band 19)",,2018,3.47,GBP,(5-star seller)
-24,30130274019,An Engineering Data Book,"Calvert, J.R.",1999,3.98,GBP,(5-star seller)
-25,32218154331,An Engineering Data Book,"Munday, Alan J.",1979,4.64,GBP,(5-star seller)
-26,31535690677,Craft Engineering Data Book,"Hancox, D.J.",1978,4.24,GBP,(5-star seller)
-27,32022704542,"Proceedings of International Conference on Wireless Communication: ICWiCom 2017: 19 (Lecture Notes on Data Engineering and Communications Technologies, 19)",,2018,4.85,GBP,(5-star seller)
-28,32284605239,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)",Fred Halsall,1992,4.1,GBP,(5-star seller)
-29,32165903348,DP 203: Data Engineering on Microsoft Azure +290 Exam Practice Questions with detail explanations and reference links: Second Edition - 2022,"Specialist, IP",2022,4.1,GBP,(5-star seller)
-30,31262948679,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)","Halsall, F.",1996,4.1,GBP,(5-star seller)
-31,32046713262,Handbook Of Data Reliability Engineering: A Comprehensive Guide To Manage Reliability In Data Organizations,"Mandal, Rajdeep",2024,6.99,GBP,(5-star seller)
-32,32243501012,Handbook Of Data Reliability Engineering,Rajdeep Mandal,2024,6.98,GBP,(5-star seller)
-33,32231485834,An Engineering Data Book,"Farrar, Roy A.",1979,4.34,GBP,(5-star seller)
-34,32206381853,An Engineering Data Book,"Farrar, Roy A.",1979,4.34,GBP,(5-star seller)
-35,32393365208,Data Communications and Networks : An Engineering Approach,"Irvine, James, Harle, David",2001,7.39,GBP,(5-star seller)
-36,32153922829,Hands-On Data Engineering: From Zero to Production,"Rane, Nitin",2025,7.23,GBP,(5-star seller)
-37,32170909398,Data Communications and Networks: An Engineering Approach,"Irvine, James",2002,2.5,GBP,(5-star seller)
-38,32145160196,Data Communications and Networks: An Engineering Approach,"Irvine, James",2001,2.5,GBP,(5-star seller)
-39,31754132969,Data Communications and Networks: An Engineering Approach,"Irvine, James",2002,2.5,GBP,(5-star seller)
+0,32176190262,Data Engineering for AI/ML Pipelines: Ultimate guide to data pipelines and architectures for AI/ML applications (English Edition),"Karthik Penikalapati, Venkata; Mangaonkar, Mitesh",2024,14.58,GBP,4
+1,32175513471,"Ace the Data Engineering Interview: Questions and Answers for Python, SQL, Data Modeling and More","Coyne, Sean",2025,23.63,GBP,5
+2,32257294168,Data Engineering with Google Cloud Platform: A guide to leveling up as a data engineer by building a scalable data platform with Google Cloud,Adi Wijaya,2024,22.8,GBP,5
+3,32227607059,An Engineering Data Book,N/A,2008,2.94,GBP,5
+4,31281650159,"Data Communications, Computer Networks and Open Systems Interconnection (Electronic systems engineering series)",Fred Halsall,1988,3.36,GBP,4
+5,32221607963,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)",Fred Halsall,1992,3.59,GBP,4
+6,32185728260,"Manufacturing Information and Data Systems: Analysis, Design and Practice (Manufacturing Engineering Series)","Cecelja, Franjo",2002,1.41,GBP,5
+7,30997001710,An Engineering Data Book,N/A,1999,3.94,GBP,5
+8,32341292575,Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,Paul Crickard,2020,27.58,GBP,5
+9,31917667436,"Data Communications and Networking, Global Edition (Asia Higher Education Engineering/Computer Science Computer Science)",N/A,2012,5.45,GBP,5
+10,31646051683,Measurement and Data Analysis for Engineering and Science,"Dunn, Patrick F.",2010,5.7,GBP,5
+11,31960122548,Driving Eureka!: Problem-Solving with Data-Driven Methods & the Innovation Engineering System,"Hall, Doug",2018,2.8,GBP,5
+12,31262249518,"Statistical Procedures for Analysis of Environmental Monitoring Data and Risk Assessment (Ptr Environmental Management and Engineering Series , Vol 3)","McBean, Edward A.",1998,3.32,GBP,5
+13,32126022543,"Proceedings of International Conference on Wireless Communication: ICWiCom 2017 (Lecture Notes on Data Engineering and Communications Technologies, Band 19)",N/A,2018,3.48,GBP,5
+14,32218154331,An Engineering Data Book,"Munday, Alan J.",1979,4.65,GBP,5
+15,31535690677,Craft Engineering Data Book,"Hancox, D.J.",1978,4.24,GBP,5
+16,32165903348,DP 203: Data Engineering on Microsoft Azure +290 Exam Practice Questions with detail explanations and reference links: Second Edition - 2022,"Specialist, IP",2022,4.12,GBP,5
+17,31262948679,"Data Communications, Computer Networks and Open Systems (Electronic Systems Engineering Series)","Halsall, F.",1996,4.12,GBP,5
+18,32243501012,Handbook Of Data Reliability Engineering,Rajdeep Mandal,2024,6.98,GBP,5
+19,32170909398,Data Communications and Networks: An Engineering Approach,"Irvine, James",2002,2.5,GBP,5
+20,32153922829,Hands-On Data Engineering: From Zero to Production,"Rane, Nitin",2025,7.23,GBP,5
+21,32196052489,Data Communications Pal (Pal Series of Engineering Reference Publications),"Rosenberg, Paul",1999,4.18,GBP,5
+22,32379158116,"Data Fitting and Error Analysis with MATLABÂ®: Things You Get from Physical Chemistry Lab, but Need in All of Science and Engineering","Coe Jr., James Vernon",2018,4.38,GBP,5
+23,32018306946,Financial Data Engineering : Design and Build Data-driven Financial Products,"Khraisha, Tamer",2024,37.61,GBP,5
+24,32346709569,Data Driven Decisions: Systems Engineering to Understand Corporate Value and Intangible Assets,"Jahani, Joshua",2023,4.63,GBP,5
+25,31325991290,Data and Formulae for Engineering Students,"J C Anderson, D M Hum, B G Neal and J H Whitelaw",1976,4.0,GBP,5
+26,32202080929,"Introduction to Scientific Computing and Data Analysis (Texts in Computational Science and Engineering, 13)","Holmes, Mark H.",2018,4.91,GBP,5
+27,32316553078,"A pocket-book of mechanical engineering, tables, data, formulas, theory, and examples","M Sames, Charles Charles M Sames,",2020,8.62,GBP,5
+28,31732642296,Data Base Systems Engineering,"Smith, D.",1995,3.58,GBP,5
+29,31821716408,Data and Formulae for Engineering Students,"Joseph Chapman Anderson, D.M. Hum, B.G. Neal, J. H. Whitelaw",1983,8.62,GBP,5
+30,32372089903,"Transactions on Large-Scale Data- and Knowledge-Centered Systems XLI: Special Issue on Data and Security Engineering: 11390 (Lecture Notes in Computer Science, 11390)",N/A,2019,8.62,GBP,5
+31,32375702739,"Intelligent Data Engineering and Automated Learning â"" IDEAL 2019: 20th International Conference, Manchester, UK, November 14â""16, 2019, Proceedings, . (Lecture Notes in Computer Science, 11872)",N/A,2019,8.62,GBP,5
+32,32375700592,"Proceedings of the International Conference on Data Engineering 2015 (DaEng-2015): 520 (Lecture Notes in Electrical Engineering, 520)",N/A,2019,8.62,GBP,5
+33,31733562873,Fundamentals of data structures in Pascal (Computer software engineering series),ellis-horowitz,1984,5.27,GBP,5
+34,32369527884,Data Engineering: A Novel Approach to Data Design,"Shive, Brian",2013,4.88,GBP,5
+35,31884479776,Algorithms and Data Structures in C++ (Computer Science & Engineering),"Parker, Alan",1993,5.67,GBP,5
+36,32184351950,Data Engineering Design Patterns : Recipes for Solving the Most Common Data Engineering Problems,"Konieczny, Bartosz",2025,41.46,GBP,5
+37,32375384652,Fundamentals of Data Structures in Turbo Pascal: For the IBM PC (Computer Software Engineering Series),"Horowitz, Ellis; Sahni, Sartaj",1988,6.77,GBP,5
+38,31719999380,Data Engineering with AWS - Second Edition: Acquire the skills to design and build AWS-based data transformation pipelines like a pro,"Eagar, Gareth",2023,43.29,GBP,5
+39,32244701556,Thermal Engineering Data Handbook,Reddy B. Sreenivasa Reddy K. Hemchandra,2007,7.34,GBP,4
+40,32296781085,Handbook of Properties of Technical and Engineering Ceramics: Part 2: Data Reviews: Section 1: High-Alumina Ceramics,"Morrell, R.",1987,10.89,GBP,5
+41,31314448748,Numerical Methods and Data Analysis in Science & Engineering with C & C++,Mohit Kumar Sharma Suresh Chandra,2021,7.72,GBP,4
+42,32051881232,"The Use of Handbook Tables and Formulas : Five Hundred Examples and Test Questions on the Application of Tables, Formulas and General Data in Machinery's Handbook, Selected Especially for Engineering and Trade Schools, Apprenticeship and Home-Study Courses, to Insure the Most Effective Use of the Handbook and a Thorough Knowledge of Its Contents","Jones, Franklin Day, Amiss, John Milton",1971,6.46,GBP,5
+43,32359231395,Basic Engineering Data Collection and Analysis,"Vardeman, Stephen B.; Jobe, John Marcus",2000,7.87,GBP,5
+44,32255914163,Principles of Data Base Systems (Computer software engineering series),N/A,1983,11.27,GBP,5
+45,31967907635,Content-Based Audio Classification and Retrieval for Audiovisual Data Parsing (The Springer International Series in Engineering and Computer,Tong Zhang et C.C. Jay Kuo,2001,8.1,GBP,5
+46,31156630011,"Fortran for Engineering Physics: Mechanics, Data Analysis, and Heat","Grossberg, A. B.",1971,6.77,GBP,5
+47,31760014206,"Speed, Data, and Ecosystems (Chapman & Hall/CRC Innovations in Software Engineering and Software Development Series)","Bosch, Jan",2016,8.68,GBP,5
+48,8275074704,Data For Engineering Inquiries,"Connan, J C",1927,8.0,GBP,5
+49,31228568844,Introduction to Traffic Engineering: A Manual for Data Collection and Analysis,"Currin, Thomas R",2001,18.19,GBP,5
+50,31865929930,DATA DRIVEN SCIENCE & ENGINEERING,"BRUNTON, STEVEN L",2022,49.45,GBP,5
+51,32383026233,"Developing Object Oriented Data Structures Using C++ (McGraw-Hill International Series in Software Engineering) [Apr 05, 1995] McMonnies, Alistair and McSporran, W.Stewart","McMonnies, Alistair; McSporran, W. Stewart",,8.7,GBP,5
+52,32385525933,Data Center Cooling Engineering,James Relington,2025,12.05,GBP,4
+53,32240279208,Mastering Generative AI and Data Engineering,Anand Vemula,2024,12.02,GBP,5
+54,32283848851,The Genesis Lifespan Record: An Examination of the Lifespan Data in Genesis Using Modern Scientific and Engineering Tools,"Day PhD, Lawrence E.",2021,10.16,GBP,5
+55,32181823931,Feature Engineering and Model Tuning: Practical Data Science Techniques,"Relington, James",2025,12.25,GBP,5
+56,30503957646,"The Electrical Year Book 1938. A Collection of Electrical Engineering Notes, Rules, Tables and Data",N/A,1938,5.0,GBP,5
+57,32164710066,Data Engineering Unlocked: Foundation and Real World Insights of a High-Demand Field,Rakesh G,2025,12.61,GBP,5
+58,32355031491,Beng & Friends: Choose a STEM Career Big Data Engineering : Choose,"Green, Lorna",2023,12.97,GBP,5
+59,31545504631,Engineering Workshop Data,Arthur W Judge,1951,13.0,GBP,5
+60,31149191228,Engineering Workshop Data,Arthur W Judge,1954,13.0,GBP,5
+61,32221171484,Mastering Data Engineering and Data Science: Data Engineering Demystified Think Like a Data Scientist Real-World Data Science for Everyone The Data En,"Rajput, Ravi",2025,13.38,GBP,5
+62,32029161205,Data Engineering Fundamentals: A Step by Step Approach,"Sandeep Kumar Pandey, Sandeep Kumar Pandey",2024,13.48,GBP,5
+63,32240158251,Data Engineering and AI for Beginners,William Leeson,2023,13.56,GBP,5
+64,1112433778,"Plumbing, Sanitation and Domestic Engineering, Data Sheets & Wall Charts","(G. Sydney Williams, edit)",,10.0,GBP,4
+65,31638560854,Magnesium in General Engineering: Properties and Design Data,Magnesium Industry Council,,2.5,GBP,5
+66,32270459516,Data Modeling Round Trip Engineering Using Oracle Data Modeler,"Darmawikarta, Djoni",2015,13.78,GBP,5
+67,30840253891,Dynamic Stochastic Models from Empirical Data. (=Mathematics in Science & Engineering; Vol. 122).,"Kashyap, R.L. and A. Ramachandra Rao:",1976,4.51,GBP,5
+68,31985125240,Molesworth's Handbook of Engineering Formulae and Data,Albert Peter Thurston,1951,10.0,GBP,5
+69,32391624571,Azure Data Engineer Associate Certification Guide: A hands-on reference guide to developing your data engineering skills and preparing for the DP-203 exam,Newton Alex,2022,11.54,GBP,5
+70,32113911247,Theory of Wing Sections: Including a Summary of Airfoil Data (Dover Books on Aeronautical Engineering),Ira H. Abbott; A. E. Von Doenhoff,1959,14.92,GBP,5
+71,30643657180,An Introduction to Agile Data Engineering Using Data Vault 2.0: Better Data Modeling,"Graziano, Kent",2015,14.24,GBP,5
+72,31318530409,Magnesium in General Engineering: Properties and Design Data,no author,1111,5.13,GBP,5
+73,31403367182,Augmented Post Systems: The Mathematical Framework for Data and Knowledge Engineering in Network-Centric Environment,"Sheremet, I. A.",2013,3.37,GBP,5
+74,32240158739,Dynamic Stochastic Models from Empirical Data Mathematics in Science & Engineering,"Kashyap, R.L. and A. Ramachandra Rao:",1976,4.46,GBP,5
+75,32364937508,Pattern Recognition: Applications to Large Data-Set Problems (Electrical & Computer Engineering),Sing-Tze Bow,1984,5.96,GBP,5
+76,31638486124,Compressed Air Data: Handbook of Pneumatic Engineering Practice,"O'Neil, F. W. (ed)",1951,3.81,GBP,5
+77,32349449027,Skylab Experiments: Volume 7: Living and Working in Space: Skylab Mission Data on Human Factors Engineering and Spacecraft Components for High School,"Warwick, J W",2013,15.41,GBP,5
+78,32339322602,Designing Data Structures in Java: A Software Engineering Approach,"Brouillette, Albert A",2013,6.86,GBP,5
+79,32307489431,"Mastering Python: Machine Learning, Data Structures, Django, Object Oriented Programming and Software Engineering (Including Programming Interview Questions) [2nd Edition]","White, Michael B.",2019,12.85,GBP,5
+80,31142969256,"The Electrical Year Book 1951 (A Collection of Electrical Engineering Notes, Rules, Tables and Data)",Various,1951,5.99,GBP,5
+81,30137035867,Data Warehouse Management: Das St. Galler Konzept zur ganzheitlichen Gestaltung der Informationslogistik (Business Engineering),"Maur, Eitel und Robert Winter",2003,3.56,GBP,5
+82,9353576312,"The Electrical Year Book 1961: A Collection of Electrical Engineering Notes, Rules, Tables and Data",Emmott & Co. Ltd.,1961,9.5,GBP,5
+83,32368815138,Engineering Culture: On 'The Author as (Digital) Producer' (Data Browser) (Volume 2),Geoff Cox,2005,11.19,GBP,5
+84,31837870006,"Electrical Engineering Series: Servomechanisms: An Introduction to the Practice and Theory of Closed-Loop Control Systems, with an Account of Methods of Data Transmission and Computation","Taylor, P.L.",1960,4.55,GBP,5
+85,30549063639,Technical Hydraulic Handbook. Lee products with complete engineering data (1979 edition),The Lee Company,1979,5.5,GBP,5
+86,32045855732,"PROMPT ENGINEERING VOLUME 1: FUNDAMENTALS, STRUCTURING CONCEPTS, HISTORY OF PROMPT ENGINEERING (ARTIFICIAL INTELLIGENCE AND THE POWER OF DATA)","PINTO, PROF MARCUS VINICIUS",2024,16.19,GBP,5
+87,32352522986,Data Engineering Fundamentals: Building scalable data solutions with ETL pipelines and strategic data architecture design (English Edition),"Liu, Zhaolong",2025,13.39,GBP,4
+88,22781179341,"Electrical Year Book 1941 a collection of electrical engineering notes, rules, tables & data",Mechanical World Office,1941,6.0,GBP,5
+89,22781179342,"Mechanical World Electrical Year Book 1948, a collection of electrical engineering notes, rules, tables & data",Mechanical World Office,1948,6.0,GBP,5
+90,31417019572,Pulse Code Formats for Fiber Optical Data Communication (Optical Science and Engineering),Morris,1983,6.11,GBP,4
+91,32400336409,Engineering Data Processing System Design,Arthur D. Even,1960,7.62,GBP,5
+92,32383021262,"Intelligent Image Processing, Data Analysis and Information Retrieval: v. 56. (Concurrent Systems Engineering Series) [Paperback] [Jan 01, 1999] Mohammadian, M.",N/A,1999,13.53,GBP,5
+93,31383289512,Compressed Air Data: Handbook of Pneumatic Engineering Practice,"Saunders, William Lawrence",2002,14.89,GBP,4
+94,31026795909,The Role of the National Institute of Standards and Technology as It Relates to Product Data Driven Engineering (Classic Reprint),Howard M. Bloom,2018,17.26,GBP,4
+95,32046801541,A Textbook on Databases in Digital Humanities: A Guide to Non-Engineering Background Learners of Literary and Social Data Criticism,Valiur Rahaman,2024,17.18,GBP,5
+96,31222812613,Algorithms and Data Structures in Computer Engineering,"Lee, E. Stewart",1992,6.66,GBP,4
+97,32191860280,Engineering Aspects of High Speed Data Distribution Classic Reprint,Fredric Ruben,2018,17.39,GBP,4
+98,32259553250,"Data Engineering in Practice: Pipelines, ETL, and RealTime Streams","Blunt, Booker",2025,17.16,GBP,5
+99,32386433960,Python for Data Engineering and Analytics,"Gabe, Avis",2025,17.17,GBP,4
+100,32262949119,Data Engineering interview guide (2nd edition),Calen Voss,2025,17.25,GBP,5
+101,32241753789,Introduction to Data Engineering: A Beginner's Guide to Data Pipelines and Big Data Tools,"Blunt, Booker",2025,17.32,GBP,5
+102,32384900762,Data Engineering with Python,Miguel Farmer,2025,17.39,GBP,4
+103,32191843156,Engineering Tables and Data Classic Reprint,William Wade Fitzherbert Pullen,2018,17.67,GBP,4
+104,32384061265,Data Engineering Essentials,Abhay Rajput,2025,17.38,GBP,4
+105,32366482127,Data Engineering for Cybersecurity: Build Secure Data Pipelines with Free and Open-Source Tools,"Bonifield, James",2025,14.71,GBP,5
+106,32381697724,Engineering Data on the Sanitary District of Chicago Classic Reprint,Chicago Sanitary District,2018,17.37,GBP,4
+107,32369422375,"700+ Data Science, Machine Learning to Data Engineering Interview Questions and Answers",Jadon K Frank,2025,17.56,GBP,5
+108,31796557101,"Servomechanisms: An Introduction to the Practice and Theory of Closed-Loop Position-Control Systems, With an Account of Methods of Data Transmission and Computation (2nd Edn) (Electrical Engineering Series)","Taylor, PL",1969,5.68,GBP,5
+109,31098183956,Map 5082: Taradale NTS 42F/NW Data Base Map Northern Ontario Engineering Geology Terrain Study,"Auld, J.A.C. and Reynolds, J.K.",1978,5.71,GBP,5
+110,1262096245,Engineering Data for Product Design,Greenwood. D [ed],1961,7.15,GBP,4
+111,31039931868,Engineering Principles and Practical Data Relating to Dust and Refuse Removal from Woodworking Machines,N/A,2013,12.94,GBP,4
+112,32381705105,Engineering Principles and Practical Data Relating to Dust and Refuse Removal From Woodworking Machines Classic Reprint,New York Bureau of Research Codes,2018,17.63,GBP,4
+113,32381675688,Local Engineering Data for St Louis Classic Reprint,St. Louis Engineers' Club,2019,17.65,GBP,4
+114,32074827735,"Data Engineering with Python: Build Efficient Data Pipelines with Python, SQL, and Airflow","Carter, Thompson",2024,17.78,GBP,5
+115,31931651213,Practical Engineering: Data Manual,F.J. Camm (Comp.),1111,3.79,GBP,5
+116,32241847984,Fundamentals of Data Engineering Essential Guide: 1st Edition - 2025,"Reads, Versatile",2025,18.0,GBP,5
+117,32019245031,"The Electrical Year Book 1960 : A Collection Of Electrical Engineering Notes, Rules, Tables And Data",Anon,1960,7.99,GBP,5
+118,32240272149,Python for Data Engineering,Greyson Chesterfield,2025,18.32,GBP,5
+119,32122187750,Data Engineering with Python: Building Pipelines and Managing Data,"Carter, Thompson",2024,18.2,GBP,5
+120,1157148452,"The Electrical Year Book 1960 : A Collection of Electrical Engineering Notes, Rules, Tables and Data","Unnamed, Unnamed",1960,7.65,GBP,5
+121,1157148450,"The Electrical Year Book 1964 : A Collection of Electrical Engineering Notes, Rules, Tables and Data","Unnamed, Unnamed",1964,7.65,GBP,5
+122,31494973509,"Introduction to Mathematics for Computing (Algorithms and Data Structures): ""Computer Science Engineering (CSE) for Non-CSE Enthusiasts""","Haque, Enamul",2023,18.38,GBP,5
+123,30704184874,Practical Electrical Engineering Blueprint Charts & Data Sheets,Newnes Practical Electrical Engineering,1961,8.5,GBP,5
+124,32212221975,Newnes Marine Engineering : Data Sheets,N/A,,10.0,GBP,4
+125,32107074482,DATA ENGINEERING WITH APACHE SPARK: Handle Big Data with Ease Using Spark's Fast Processing Engine,"CARTER, THOMPSON",2025,18.47,GBP,5
+126,32122202360,Mastering Python for Data Engineering: Transform and Manipulate Big Data with Python,"Carter, Thompson",2025,18.46,GBP,5
+127,31395105732,"Feature Extraction, Construction and Selection: A Data Mining Perspective (The Springer International Series in Engineering and Computer Science, 453)",N/A,1998,15.49,GBP,5
+128,32047329340,Feature Engineering for the Win: Building Powerful Models with the Right Data,Dr.N.Krishnaraj,2024,18.74,GBP,5
+129,31517961489,"Java Artificial Intelligence: Made Easy, w/ Java Programming; Learn to Create your * Problem Solving * Algorithms! TODAY! w/ Machine Learning and Data . engineering, r programming, iOS development)","Academy, Code Well",2016,19.1,GBP,4
+130,32166852259,Fundamentals of data structures (Computer software engineering series),"Sahni, Sartaj; Horowitz, Ellis",1976,5.14,GBP,5
+131,31783043957,"Servomechanisms: An Introduction to the Practice and Theory of Closed-Loop Position-Control Systems, with an Account of Methods of Data Transmission and Computation (Electrical engineering series)","Taylor, P L",1960,12.0,GBP,5
+132,32374067253,Feature Engineering for Machine Learning : Principles and Techniques for Data Scientists,"Zheng, Alice, Casari, Amanda",2018,14.28,GBP,5
+133,966561258,Engineering Data Management: Key to Success in a Global Market: Proceedings of the 1993 Asme International Computers in Engineering Conference and,"K. H. Law, ed.",1993,5.29,GBP,5
+134,719150669,"Recent Advances in Sensors, Radiometry, and Data Processing for Remote Sensing: 6-8 April 1988, Orlando, Florida (Proceedings of SPIE--the International Society for Optical Engineering, Volume 924)",Philip N. Slater,1988,5.29,GBP,5
+135,31430897967,Compressed Air Data : Handbook of Pneumatic Engineering Practice,F.W. O'Neil,1939,8.0,GBP,4
+136,8194757841,"Intelligent Data Engineering and Automated Learning - Ideal 2000: Data Mining, Financial Engineering, and Intelligent Agents : Second International Co . ngs (Lecture Notes in Computer Science, 1983)","Kwong Sak Leung, Lai-Wan Chan, Helen Meng, Eds.",2000,5.42,GBP,5
+137,32047326499,Data Engineering Fundamentals: A Step by Step Approach,Sandeep Kumar Pandey,2024,19.17,GBP,5
+138,15470058745,"Improving Productivity by Classification, coding, and data base standardization (Manufacturing Engineering and Materials Processing)","Hyde, W. F. and William F. Hyde :",1981,6.49,GBP,5
+139,1344138848,The Nimonic Heat-Resisting [high-temperature] Alloys : Engineering Data,Henry Wiggin & Co,1960,8.0,GBP,4
+140,30455572205,"A PocketBook of Mechanical Engineering Tables, Data, Formulas, Theory, and Examples, for Engineers and Students Classic Reprint",Charles Maccaughey Sames,2018,19.62,GBP,4
+141,32378879830,Data-Centric Systems and Applications: Engineering Web Applications,Sven Casteleyn,2009,8.37,GBP,5
+142,31996509403,Azure Data Engineering: A Guide for Data Engineers,"Nuckolls, Richard",2020,16.93,GBP,5
+143,32380343828,"Augment It: How Architecture, Engineering and Construction Leaders Leverage Data and Artificial Intelligence to Build a Sustainable Future","Nourbakhsh, Mehdi",2022,13.72,GBP,5
+144,12994211574,Molesworth Handbook of Engineering Formulae and Data. 1951.,"Thurston, Albert Peter (Ed)",1951,16.0,GBP,2
+145,31955360320,"Electrical Engineers Data Books Volume Three, Radio Engineering (Telegraph/Telephony)",J.H. Reyner,1928,4.92,GBP,5
+146,31262107785,Mechanical Engineering Data Handbook,Pushpendra Sharma Vishav Kamal Prashant Sharma Mukesh Pandey,,17.12,GBP,4
+147,32384324943,Real-Time Data Engineering in Production,"M. Girard, Kevin",2025,19.83,GBP,4
+148,31098179272,Ontario Geological Survey Map 5049: Northern Ontario Engineering Geology Terrain Study: Data Base Map: Gull River NTS 52H/NW,"Auld, J.A.C. and Reynolds, J.K.",1979,7.59,GBP,5
+149,32046231302,Feature Engineering for the Win: Building Powerful Models with the Right Data,Dr.N.Krishnaraj,2024,20.05,GBP,5
+150,974387970,Magnesium in General Engineering: Properties and Design Data,ANONYMOUS COMPILERS,1961,9.15,GBP,5
+151,32365160058,Data-oriented design: software engineering for limited resources and short schedules,"Fabian, Mr Richard",2018,17.48,GBP,5
+152,31398283457,Practical Engineering: Data Manual 2nd Series Mechanical Movements,"Camm, F J (compiler)",,13.0,GBP,5
+153,32384862144,Data Engineering Unlocked,Rakesh G,2025,20.29,GBP,4
+154,31155096166,"Engineering Sketch Book: Notebook for your Data, Sketches, Notes and Trendsetting Ideas.",Roland H. M.Eng.,2018,13.26,GBP,5
+155,31084254293,Compressed Air Data : Handbook of Pneumatic Engineering Practice,"O'Neil, F.W. [editor]",1939,3.05,GBP,5
+156,31350699078,Practical Engineering Data Manual,F. J. Camm,1000,9.0,GBP,5
+157,30898844681,Electrical Tables and Engineering Data Classic Reprint,Henry Charles Horstmann,2018,20.99,GBP,4
+158,32384919010,Python for Data Engineering,"Hopkins, Nicholas",2025,20.75,GBP,4
+159,30766908279,"Intelligent Data Engineering and Automated Learning - IDEAL 2009: 10th International Conference, Burgos, Spain, September 23-26, 2009, Proceedings . Applications, incl. Internet/Web, and HCI)","Emilio Corchado, Hujun Yin",2009,7.09,GBP,5
+160,32109407371,"Electrical Tables And Engineering Data; A Book Of Useful Tables And Practical Hints For Electricians, Foremen, Salesmen, Solicitors, Estimators, Contr","Charles, Horstmann Henry",2023,20.99,GBP,5
+161,30841496228,"Intelligence Science and Big Data Engineering. 8th International Conference, IScIDE 2018, Lanzhou, China, August 1819, 2018, Revised Selected Papers.","Peng, Yuxin et al. (Eds.)",2018,10.81,GBP,5
+162,31141297054,"Life Science Data Mining. [Science, Engineering, and Biology Informatics, Vol. 2].","Wong, Stephen Tin Chi and Chung-Sheng Li:",2006,6.12,GBP,5
+163,32384932899,Python Data Engineering Essentials,Jason Brener,2025,20.87,GBP,4
+164,31365643744,"Mechanical World Electrical Year Book 1964. A Collection of Electrical Engineering Notes, Rules Tables and Data.",N/A,1964,5.0,GBP,5
+165,31822009806,"Practical Engineering Data Manual, 2nd Series Mechanical Movements",F. J. Camm,1111,10.46,GBP,5
+166,31595262230,Data Book on Hydrocarbons: Application to Process Engineering,"Maxwell, J. B.",1960,8.52,GBP,5
+167,32122346978,"Engineering Workshop Data: A Book of Reference containing Data, Formulae, Tables, Hints and Recipes relating to all Phases of Engineering Workshop Practice","Judge, Arthur W.",1956,3.82,GBP,5
+168,31922432065,Newnes Marine Engineering: Data Sheets,Unstated,1111,10.49,GBP,5
+169,31473592971,The Association of Engineering and Shipbuilding Draughtsmen Reinforced Concrete Design Data,Anthony d'O Smith,,10.0,GBP,5
+170,31040350074,"The Mechanical World Electrical Pocket A Collection of Electrical Engineering Notes, Rules, Tables and Data Classic Reprint",Unknown Author,2018,21.62,GBP,4
+171,32308305301,"Pump Engineering Data: A Handbook For Pump Application With Descriptions And Listings Of Centrifugal, Axial, And Mixed Flow Pumps: Wheeler-economy Pumps",C. H. Wheeler Manufacturing,,7.54,GBP,5
+172,32384200839,Kubernetes for AI and Data Engineering,Luca Randall,2025,21.3,GBP,4
+173,32400138091,"Intelligent Data Engineering and Automated Learning - IDEAL 2004 : 5th International Conference, Exeter, UK, August 2004, Proceedings",N/A,2004,12.22,GBP,5
+174,31724874343,"Chemical Industries- Chemical & Physical Data, Chemical Engineering",Edited By L.IVANOVSZKY,1942,10.0,GBP,5
+175,30429252690,Engineering Workshop Data,"Judge, Arthur W",1951,10.0,GBP,5
+176,32242676485,Engineering workshop data,Arthur W. Judge,1954,6.4,GBP,5
+177,32366360604,"Engineering Manual; a Practical Reference of Data and Methods in Architectural, Chemical, Civil, Electrical, Mechanical, and Nuclear Engineering",Robert H Perry,1967,7.62,GBP,5
+178,32240357460,Data Engineering with Databricks,Sumit Verma,2023,21.79,GBP,5
+179,31716209025,"Intelligent Data Engineering and Automated Learning IDEAL 2018. 19th International Conference, Madrid, Spain, November 2123, 2018, Proceedings, Part II.","Yin, Hujun/Camacho, David/Novais, Paulo/Tallón-Ballesteros, Antonio J. (Hrsg.)",2018,11.71,GBP,5
+180,31716210938,"Intelligence Science and Big Data Engineering. 8th International Conference, IScIDE 2018, Lanzhou, China, August 1819, 2018, Revised Selected Papers.","Peng, Yuxin/Yu, Kai/Lu, Jiwen/Jiang, Xingpeng (Hrsg.)",2018,11.71,GBP,5
+181,30604629550,"Big Data, Cloud Computing, and Data Science & Engineering.","Lee, Rodger (Ed.)",2019,11.71,GBP,5
+182,32385703616,Data Engineering with Vectors,"Zotev, Robyn",2025,21.75,GBP,4
+183,31467028306,"THE 'MECHANICAL WORLD' ELECTRICAL POCKET BOOK, 1928: A COLLECTION OF ELECTRICAL ENGINEERING NOTES, RULES, TABLES AND DATA.",No author.,1928,7.35,GBP,5
+184,30839682292,The Role of the National Institute of Standards and Technology as It Relates to Product Data Driven Engineering (Classic Reprint),Howard M. Bloom,2018,22.17,GBP,4
+185,32384024095,High-Performance Data Engineering with Go,Landen Howe,2025,21.78,GBP,4
+186,30869735062,Engineering Aspects of High Speed Data Distribution Classic Reprint,Fredric Ruben,2018,22.3,GBP,4
+187,32387157607,Engineering Workshop Data,A.W. Judge,,7.36,GBP,5
+188,30814012025,Engineering Principles and Practical Data Relating to Dust and Refuse Removal From Woodworking Machines (Classic Reprint),New York Bureau of Research Codes,2018,22.35,GBP,4
+189,30869708801,Local Engineering Data for St Louis Classic Reprint,St. Louis Engineers' Club,2019,22.36,GBP,4
+190,18700778826,Practical Engineering Data Manual 2nd Series Mechanical Movements,F J Camm,,10.0,GBP,5
+191,31505088200,"Computational Intelligence for Modelling, Control and Automation '99: Intelligent Image Processing, Data Analysis and Information Retrieval (Concurrent Systems Engineering Series): v. 56.",M. Mohammadian,,7.36,GBP,5
+192,30869706495,Engineering Tables and Data Classic Reprint,William Wade Fitzherbert Pullen,2018,22.58,GBP,4
+193,31278513325,"Engineering Manual: A Practical Reference of Design Methods and Data in Building Systems, Chemical, Civil, Electrical, Mechanical, and Environmental",Robert H. Perry,1976,5.05,GBP,5
+194,31325182250,Data and Formulae for Engineering Students,"Anderson, J. C., et al.",1983,17.29,GBP,5
+195,32030817816,Regularized System Identification: Learning Dynamic Models from Data (Communications and Control Engineering),"Pillonetto, Gianluigi; Chen, Tianshi; Chiuso, Alessandro; De Nicolao, Giuseppe; Ljung, Lennart",2022,22.3,GBP,5
+196,32386090022,"Creating Value With Artificial Intelligence: Lessons Learned From 10 Yrs Of Building AI Products And Overcoming Data, Adoption, And Engineering Challenges",Rudradeb Mitra,2018,11.62,GBP,5
+197,32346784020,Decision Tables in Software Engineering (Van Nostrand Reinhold Data Processing Series),"Hurley, Richard B.",1982,8.0,GBP,5
+198,32326838807,"Developing Bots with Selenium Python: For Web Scraping, Test Engineering, Data Mining, and Automation (Mepso Media Bot Development Series)","Schrenk, Michael G",2023,20.1,GBP,5
+199,32385591365,Data-Centric Engineering,Ant,2025,22.45,GBP,4
