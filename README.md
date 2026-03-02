@@ -50,6 +50,3 @@ This will establish the technologies that will be using to model our current pro
 
 ### Development Approach
 We are following the 'Scrum' methodology, using GitHub Project for an easily-accessible and central point for our work to be contained. As mentioned previously, tasks are split evenly across all three members. Communication and accountability is upheld via a shared Whatsapp Groupchat, wherein updates are shared amongst ourselves to ensure the timely delivery and completion of tasks/groupwork.
-
-## Kanban board
-This is the Kanban board we use to track progress, organize tasks, and ensure smooth workflow management. Each column represents a different stage of the process, helping us visualize work in progress and prioritize tasks effectively. [insert link here]
