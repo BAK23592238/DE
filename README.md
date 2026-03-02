@@ -49,4 +49,9 @@ This will establish the technologies that will model our current progress, team 
 - **Project Management & Development**: GitHub VSC, GitHub Projects, Jupytr Notebook, draw.io
 
 ### Development Approach
-We are following the 'Scrum' methodology, using GitHub Project for an easily-accessible and central point for our work to be contained. As mentioned previously, tasks are split evenly across all three members. Communication and accountability is upheld via a shared Whatsapp Groupchat, wherein updates are shared amongst ourselves to ensure the timely delivery and completion of tasks/groupwork.
+We are following the 'Scrum' methodology, using GitHub Project for an easily-accessible and central point for our work to be contained. As mentioned previously, tasks are split evenly across all three members. 
+
+Communication and accountability is upheld via a shared Whatsapp Groupchat, wherein updates are shared amongst ourselves to ensure the timely delivery and completion of tasks/groupwork.
+
+### Documentation
+All written works, progress, and all relevant screenshots for this CSWRK have been saved on a shared team document on Microsoft Word, named 'Coursework 1 – TechReads & Trend Analysis with MySQL, Apache Ni-Fi,  and MongoDB'. Can be accessed and viewed on the respective CSWRK submission links via the data engineering module on Moodle as PDFs.
