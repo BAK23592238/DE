@@ -41,7 +41,7 @@ The system demonstrates structured storage, automation, distributed data handlin
 - Documented analysis and reflection
 
 ### Technology Stack
-This will establish the technologies that will be using to model our current progress, team communication, and develop our project to the fullest.
+This will establish the technologies that will model our current progress, team communication, and allow us to develop our project to the fullest.
 
 - **Data Collection**: Python, Requests, BeautifulSoup, Pandas
 - **Data Storage**: MySQL and MongoDB
