@@ -5,7 +5,7 @@
 ## Group Member Details
 - Keisha Geyrozaga (GEY23581805) [GitHub Profile](https://github.com/MOMORII)
 - Hala Bakhtiar (BAK23592238) [GitHub Profile](https://github.com/BAK23592238)
-- Mohammad Rohan (ROH22609719) [GitHub Profile](https://github.com/rohanxco)
+- Mohammad Sadman Sakib Rohan (ROH22609719) [GitHub Profile](https://github.com/rohanxco)
   
 ## Repository Information
 This repository contains both parts of the group coursework (1+2). The first part aims to utilise various software tools, such as MySQL, Apache Nifi, and MongoDB to extract data and analyse trends. The second part intends to build on these works. Following labwork, we aim to use web-scraping tactics and data automation to perform a series of tasks that will enable us to address TechReads' data ingestion problem. Works have been split across all three members equally and fairly. 
